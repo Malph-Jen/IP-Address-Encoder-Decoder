@@ -21,9 +21,13 @@ Enter 4 groups of 8 bits (one group per line).
 Each group represents one octet.
 
 Example input:
+
 11000000
+
 10101000
+
 00000001
+
 00000001
 >>Output:
 FULL IP IS: 192.168.1.1
@@ -34,9 +38,13 @@ FULL IP IS: 192.168.1.1
 Enter 4 decimal values (0–255), one for each octet.
 
 Example input:
+
 192
+
 168
+
 1
+
 1
 >>Output:
 11000000.10101000.00000001.00000001
