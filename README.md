@@ -40,6 +40,9 @@ Example input:
 1
 >>Output:
 11000000.10101000.00000001.00000001
+
+
+
 📚 Notes
 
 Works with standard IPv4 (32-bit addresses).
